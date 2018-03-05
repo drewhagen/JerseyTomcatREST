@@ -7,6 +7,9 @@ https://www.pluralsight.com/courses/restful-services-java-using-jersey
 
 This project will be done in IntelliJ, with maven enabled.
 
+This project may eventually implement groovy scripts for data analysis,
+following the lead of existing python scripts as pseudocode.
+
 Followed this guide by Sam Jesso!:
 https://medium.com/@jamsesso/starting-out-with-jersey-apache-tomcat-using-intellij-6338d93ffd40
 
