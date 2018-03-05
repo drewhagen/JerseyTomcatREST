@@ -1,8 +1,8 @@
 package csv_data_analysis;
 
-import org.apache.commons.csv.CSVFormat;
+/*import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
+import org.apache.commons.csv.CSVRecord;*/
 
 import java.io.IOException;
 import java.io.Reader;
@@ -14,7 +14,7 @@ public class CSVsample {
     private static final String csvPath = "/../../resources/csv_files";
 
     public static void main(String[] args) throws IOException {
-        try (
+        /*try (
                 Reader reader = Files.newBufferedReader(Paths.get(csvPath));
                 CSVParser csvParser = new CSVParser(reader, CSVFormat.DEFAULT
                         .withHeader("name", "email", "phone", "country")
@@ -37,6 +37,6 @@ public class CSVsample {
                 System.out.println("Country : " + country);
                 System.out.println("---------------\n\n");
             }
-        }
+        }*/
     }
 }
