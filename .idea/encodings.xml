@@ -3,5 +3,32 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java/csv_data_analysis" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/main/java/grep_controller" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/11_10_17_notes.7z" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/XSL_Includes.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/__init__.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/code_review.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/commentRecognizer.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/csvToJSON.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/csvToJSONoutsource.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/emptyCSV.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/fileTypeSlice.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/foo.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/git_Index_Splice.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/grab_table_strongs.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/group_by_file.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/hello.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/html_table_parser.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/http_get_url_slicer.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/icml_nav_gen.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/icml_script_not_class.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/links_between_icml.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/parse_intermediate_mass_grep_return.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/referenced_from.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/remove_duplicates.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/replaceAll.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/spaceOut.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/splice_parent_dir_ref.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/toCSV.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/python/unixPathToWindows.py" charset="ISO-8859-1" />
   </component>
 </project>
