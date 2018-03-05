@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Made an update via
+https://stackoverflow.com/questions/38289537/running-rest-service-from-intellij-with-maven-jersey-and-tomcat-8
+Now, the artifact deploys, but still getting 404 error-->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -45,5 +48,5 @@
             </plugin>
         </plugins>
     </build>
-    <name>PortalProject</name>
+    <name>hello</name>
 </project>
