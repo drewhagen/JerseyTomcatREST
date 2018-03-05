@@ -4,6 +4,7 @@ by using **Jersey** java framework, and **Apache Tomcat** server.
 I will be following this Pluralsight course:
 https://www.pluralsight.com/courses/restful-services-java-using-jersey
 
+
 This project will be done in IntelliJ, with maven enabled.
 
 Note: This application will also try to work with some existing Python
