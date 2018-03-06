@@ -1,13 +1,15 @@
 This is a sample application using **RESTful services**, specifically
 by using **Jersey** java framework, and **Apache Tomcat** server.
 
+In its current state, this RESTful API returns valid XML via GET request. I'm looking to add a demonstration of JSON next.
+
 I will be following this Pluralsight course:
 https://www.pluralsight.com/courses/restful-services-java-using-jersey
 
-
 This project will be done in IntelliJ, with maven enabled.
 
-Followed this guide by Sam Jesso!:
+To Get Up and Running:
+I followed this guide by Sam Jesso!:
 https://medium.com/@jamsesso/starting-out-with-jersey-apache-tomcat-using-intellij-6338d93ffd40
 
 Special thanks to these users on StackOverFlow for helping me get the config to work:
